@@ -12,3 +12,6 @@
 2. move your hand any of one hand in camera screen the position of index figure will be head position every time
 3. if u wanna reload game once game is over press 'r' on key borad
 4. if u wanna exit then press 'q'
+5. the hardness level of game can be changed by changing the rang of minDist in line no 91
+![image](https://user-images.githubusercontent.com/99680983/164886071-105d8151-6877-405c-9cb4-03237fed8443.png)
+
