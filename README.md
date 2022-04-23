@@ -16,4 +16,6 @@
 
 # IMAGES OF GAMEPLAY
 ![image](https://user-images.githubusercontent.com/99680983/164886071-105d8151-6877-405c-9cb4-03237fed8443.png)
+![image](https://user-images.githubusercontent.com/99680983/164886202-9bedc878-2920-4af2-9f70-2c8fbd03cd7e.png)
+
 
