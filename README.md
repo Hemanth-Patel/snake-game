@@ -7,3 +7,4 @@
    pip install cvzone                                                                                                                                                     
    pip install python-math                                                                                                                                               
    pip install numpy
+<!--  -->HOW TO PLAY
